@@ -44,7 +44,7 @@ Scarica `HardLink Manager.exe` dalla sezione [Releases](../../releases) ed esegu
 - `customtkinter`
 
 ```bash
-git clone https://github.com/TUO_USERNAME/hardlink-manager.git
+git clone https://github.com/D3luX8/hardlink-manager.git
 cd hardlink-manager
 pip install -r requirements.txt
 python hardlink_manager.py
